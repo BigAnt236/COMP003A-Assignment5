@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-
             // Call PrintSeparator() with the parameter "Triangle"
             PrintSeparator("Triangle");
 
